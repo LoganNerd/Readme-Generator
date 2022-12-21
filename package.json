@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "node": "^19.3.0"
+  },
+  "name": "readmegenerator",
+  "description": "Creating a Readme Generator.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoganNerd/ReadmeGenerator.git"
+  },
+  "author": "Logan Juul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoganNerd/ReadmeGenerator/issues"
+  },
+  "homepage": "https://github.com/LoganNerd/ReadmeGenerator#readme"
+}
